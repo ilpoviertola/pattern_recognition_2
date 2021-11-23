@@ -131,3 +131,4 @@ dmypy.json
 # Training & testing data
 dataset/
 im_data.npy
+im_data_with_occlusions.npy
