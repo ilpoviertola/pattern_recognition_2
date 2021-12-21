@@ -132,3 +132,4 @@ dmypy.json
 dataset/
 im_data.npy
 im_data_with_occlusions.npy
+im_annos.npy
